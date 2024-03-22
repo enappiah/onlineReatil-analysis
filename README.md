@@ -17,12 +17,12 @@ The purpose is to create a sales dashboard to present an overview of sales metri
   - Retention Analysis
   - Customer engagement (Purchase behavior)
 
-    ## The dataset can be found here:
+## The dataset can be found here:
     [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
     
-    ## Tools use
+## Tools use
     Python, MySQL, Tableau
 
-    ## Skills acquired
+## Skills acquired
     Pandas, Numpy, SQL joins, CTE, Window functions, Level of details expressions, dashboarding, UX design
     
