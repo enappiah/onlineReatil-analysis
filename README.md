@@ -25,4 +25,7 @@ The purpose is to create a sales dashboard to present an overview of sales metri
 
 ## Skills acquired
   Pandas, Numpy, SQL joins, CTE, Window functions, Level of details expressions, dashboarding, UX design
+
+## Dashboard
+[Online Retail Analysis](https://public.tableau.com/views/OnlineRetailAnalysis_17105004473870/DashboardCustomers?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
     
