@@ -1,4 +1,4 @@
-# onlineReatil-analysis
+# Online Retail Analysis
 
 This analysis is about an online retail non-store located in the UK that deals in the sales of giftware.
 
@@ -18,11 +18,11 @@ The purpose is to create a sales dashboard to present an overview of sales metri
   - Customer engagement (Purchase behavior)
 
 ## The dataset can be found here:
-    [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+  [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
     
 ## Tools use
-    Python, MySQL, Tableau
+  Python, MySQL, Tableau
 
 ## Skills acquired
-    Pandas, Numpy, SQL joins, CTE, Window functions, Level of details expressions, dashboarding, UX design
+  Pandas, Numpy, SQL joins, CTE, Window functions, Level of details expressions, dashboarding, UX design
     
