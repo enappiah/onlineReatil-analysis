@@ -1,9 +1,9 @@
 # onlineReatil-analysis
 
-This analysis is about an online retail non-store located in the Uk that deals in the sales of gift-ware. The data is taken from taken from kaggle
+This analysis is about an online retail non-store located in the UK that deals in the sales of giftware.
 
 ## Business Requirements
-The purpose is to create sales dashboard to present an overview of sales metrics and trends in orders to analyse year-over-year sales performance and understand sales trends. This will help stakeholders, including sales managers and executives to analyse sales performance and customers.
+The purpose is to create a sales dashboard to present an overview of sales metrics and trends to analyze year-over-year sales performance and understand sales trends. This will help stakeholders, including sales managers and executives to analyze sales performance and customers.
 
   ### Sales Dashboard
   - KPI overview to Display a summary of total sales, quantity, and products for the current year and the previous year
@@ -15,11 +15,14 @@ The purpose is to create sales dashboard to present an overview of sales metrics
   - Represent the distribution of customers based on the number of orders and by Country
   - Insights into customer behavior and engagement
   - Retention Analysis
-  - Customer engagement (Purchase behaviour)
+  - Customer engagement (Purchase behavior)
 
     ## The dataset can be found here:
-    [Kaggle] (https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+    [Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
     
-    ## Tools use : Python, MySQL, Tableau
-    ## Skills acquired: Pandas, Numpy, Window functions, Level of details expressions, dashboarding, UX design
+    ## Tools use
+    Python, MySQL, Tableau
+
+    ## Skills acquired
+    Pandas, Numpy, SQL joins, CTE, Window functions, Level of details expressions, dashboarding, UX design
     
